@@ -36,45 +36,6 @@ A clinical decision support system that uses machine learning to classify matern
 🔗 [View Repository](#)
 
 
-### 🏥 FedSepsis — Federated & Explainable AI for Sepsis Early Warning
-
-A project focused on developing a privacy-aware framework for real-time sepsis early warning using federated learning, explainable AI, and edge computing.
-
-**Technologies:** Python • XGBoost • Flower • SHAP • FastAPI • React • TFLite
-
-🔗 [View Repository](#)
-
-
-### 🧬 Biomedical Named Entity Recognition
-
-A Natural Language Processing project for identifying chemical and disease entities from biomedical text using transformer-based models.
-
-**Technologies:** Python • BERT • BioBERT • NLP • PyTorch
-
-🔗 [View Repository](#)
-
-
-### ⛓️ CadastreX
-
-A blockchain-based application developed using smart contracts to explore decentralized application development.
-
-**Technologies:** Solidity • Hardhat • Blockchain
-
-🔗 [View Repository](#)
-
-
-## Research & Publications
-
-### Integrating Federated Learning for Improved Counterfactual Explanations in CDSSs for Sepsis Therapy
-
-Academic seminar and research work exploring the use of federated learning and counterfactual explanations in clinical decision support systems for sepsis therapy.
-
-**Authors:** Düs­ing et al.  
-**Published in:** AI in Medicine, 2024
-
-🔗 [Research Paper](#)
-
-
 ## Certifications & Learning
 
 - **NPTEL — Deep Learning**
