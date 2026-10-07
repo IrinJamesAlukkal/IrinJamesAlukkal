@@ -56,9 +56,9 @@ A clinical decision support system that uses machine learning to classify matern
 
 ## Connect With Me
 
-- 💼 LinkedIn: [Irin James](#)
+- 💼 LinkedIn: [Irin James](https://linkedin.com/in/irin-james)
 - 📧 Email: irin.james0@gmail.com
-- 💻 GitHub: [IrinJamesAlukkal](#)
+- 💻 GitHub: [IrinJamesAlukkal]()
 <!--
 **IrinJamesAlukkal/IrinJamesAlukkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
