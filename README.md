@@ -1,4 +1,12 @@
 ## Hi, I am Irin James👋
+## About Me
+
+I am a fourth-year B.Tech student in Artificial Intelligence and Data Science at Rajagiri School of Engineering and Technology.
+
+I have a strong foundation in Python, Java, C, SQL, machine learning, and software development. I enjoy building practical AI/ML solutions to solve real-world problems and am particularly interested in machine learning, natural language processing, explainable AI, and intelligent systems.
+
+Currently, I am working on projects involving federated learning, explainable AI, healthcare AI, and natural language processing.
+
 
 <!--
 **IrinJamesAlukkal/IrinJamesAlukkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
